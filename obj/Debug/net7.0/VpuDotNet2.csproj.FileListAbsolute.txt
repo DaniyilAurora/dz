@@ -1,0 +1,15 @@
+C:\users\daniy\documents\c#\vpudotnet2\bin\Debug\net7.0\VpuDotNet2.exe
+C:\users\daniy\documents\c#\vpudotnet2\bin\Debug\net7.0\VpuDotNet2.deps.json
+C:\users\daniy\documents\c#\vpudotnet2\bin\Debug\net7.0\VpuDotNet2.runtimeconfig.json
+C:\users\daniy\documents\c#\vpudotnet2\bin\Debug\net7.0\VpuDotNet2.dll
+C:\users\daniy\documents\c#\vpudotnet2\bin\Debug\net7.0\VpuDotNet2.pdb
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.csproj.AssemblyReference.cache
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.AssemblyInfoInputs.cache
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.AssemblyInfo.cs
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.csproj.CoreCompileInputs.cache
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.dll
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\refint\VpuDotNet2.dll
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.pdb
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\VpuDotNet2.genruntimeconfig.cache
+C:\users\daniy\documents\c#\vpudotnet2\obj\Debug\net7.0\ref\VpuDotNet2.dll
